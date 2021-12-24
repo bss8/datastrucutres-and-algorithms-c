@@ -6,8 +6,8 @@ https://www.udemy.com/course/datastructurescncpp/learn/lecture/13123954
 
 ## To build
 
-`gcc main.c -o main`
-
+C: `gcc main.c -o main`
+C++: `g++ main.cpp -o main`
 ## To run
 
 `./main`
